@@ -1,3 +1,5 @@
 This is just the simple commit test .
 we will explore next steps in a while.
 Just editing it for first time .
+editing it for second time and adding seven colors -
+red,blue,green,yellow,orange,purple
